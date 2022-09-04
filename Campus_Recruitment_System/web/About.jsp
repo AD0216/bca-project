@@ -1,8 +1,3 @@
-<%-- 
-    Document   : About
-    Created on : Jul 17, 2019, 6:04:57 PM
-    Author     : dell
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
